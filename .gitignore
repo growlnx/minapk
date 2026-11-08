@@ -1,0 +1,4 @@
+out/
+apk/dist/
+apk/build/
+tools/*.jar
