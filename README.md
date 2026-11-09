@@ -39,4 +39,4 @@ makefile
 2. `make install`
 3. Launch `MinAPK` on device
 
-> Note: You can delete clinit methods and the App.smali and it will still working
+> Note: You can delete clinit methods and the App.smali file and it will still work
